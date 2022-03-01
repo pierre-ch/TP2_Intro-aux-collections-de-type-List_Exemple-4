@@ -1,0 +1,7 @@
+X:\GitHub\m. henri\S2\TP2_Intro-aux-collections-de-type-List_Exemple-4\TP_Type_List_Exemple4\bin\Debug\TP_Type_List_Exemple4.exe.config
+X:\GitHub\m. henri\S2\TP2_Intro-aux-collections-de-type-List_Exemple-4\TP_Type_List_Exemple4\bin\Debug\TP_Type_List_Exemple4.exe
+X:\GitHub\m. henri\S2\TP2_Intro-aux-collections-de-type-List_Exemple-4\TP_Type_List_Exemple4\bin\Debug\TP_Type_List_Exemple4.pdb
+X:\GitHub\m. henri\S2\TP2_Intro-aux-collections-de-type-List_Exemple-4\TP_Type_List_Exemple4\obj\Debug\TP_Type_List_Exemple4.csproj.AssemblyReference.cache
+X:\GitHub\m. henri\S2\TP2_Intro-aux-collections-de-type-List_Exemple-4\TP_Type_List_Exemple4\obj\Debug\TP_Type_List_Exemple4.csproj.CoreCompileInputs.cache
+X:\GitHub\m. henri\S2\TP2_Intro-aux-collections-de-type-List_Exemple-4\TP_Type_List_Exemple4\obj\Debug\TP_Type_List_Exemple4.exe
+X:\GitHub\m. henri\S2\TP2_Intro-aux-collections-de-type-List_Exemple-4\TP_Type_List_Exemple4\obj\Debug\TP_Type_List_Exemple4.pdb
